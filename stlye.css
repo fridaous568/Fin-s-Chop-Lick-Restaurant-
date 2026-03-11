@@ -25,11 +25,11 @@ article{
 }
 body{
     background-image: url(Fin\'s\ Chop\ &\ Lick\ Restaurant.png);
-    background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     margin: 0;
-    background-size: 1000px;
+    background-size: contain;
+    background-repeat:repeat;
 }
 p{
     font-size: larger;
