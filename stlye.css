@@ -31,7 +31,6 @@ body{
     background-size: cover;
     margin: 0;
     justify-content: center;
-    min-height: 100vh;
 }
 p{
     font-size: larger;
