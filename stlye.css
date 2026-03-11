@@ -24,7 +24,7 @@ article{
     width: auto;  
 }
 body{
-    background-image: url(food.png);
+    background-image: url(Fin\'s\ Chop\ &\ Lick\ Restaurant.png);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -47,7 +47,7 @@ p{
     background:linear-gradient(to right,rgb(6, 168, 232), white);
     text-align: center;
     width:500px;
-    font-size:16px;
+    font-size:15px;
 }
 table{
     background: linear-gradient(to left,rgb(6, 168, 232), white);;
@@ -117,6 +117,7 @@ h1{
     border-radius: 15px;
     padding: 15px;
     margin: 0%;
+    
 
 }
 article{
