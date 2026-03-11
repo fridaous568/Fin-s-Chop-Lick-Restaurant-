@@ -1,0 +1,233 @@
+article{
+    background:linear-gradient(to right,rgb(6, 168, 232,0.7), rgb(255, 255, 255,0.7));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: 1px, solid;
+    border-radius: 10px;
+    border-style:outset;
+    margin-right: 10px;
+    width:auto;
+}
+#h{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+    
+#sec1{
+    background:linear-gradient(to right,rgb(6, 168, 232,0.7), rgb(255, 255, 255,0.7));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: 1px, solid;
+    border-radius: 10px;
+    border-style:outset;
+    padding: 5px;
+    width: auto;  
+}
+body{
+    background-image: url(food.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height:auto;
+    margin: 0;
+    justify-content: center;
+}
+p{
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+    font-style: italic;
+}
+#L{
+    background: linear-gradient(to left,rgb(6, 168, 232), white);
+    text-align: center;
+    width:auto;
+}
+#tb{
+    background:linear-gradient(to right,rgb(6, 168, 232), white);
+    text-align: center;
+    width:500px;
+    font-size:16px;
+}
+table{
+    background: linear-gradient(to left,rgb(6, 168, 232), white);;
+}
+td{
+    font-style: italic;
+}
+#s{
+    gap: 40px;
+}
+#w1 a:hover{
+    color: green;
+}
+#E1 a:hover{
+    color: white;
+}
+h1{
+    color: black;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#b1{
+  border-radius: 20px;
+   background:linear-gradient(to right,rgb(6, 168, 232,0.7), rgb(255, 255, 255,0.7));
+   padding: 15px;
+   font-size: 10px;
+   border-width: 2px;
+}
+#b3{
+    border-radius: 20px;
+   background:linear-gradient(to right,rgb(6, 168, 232,0.7), rgb(255, 255, 255,0.7));
+   padding: 15px;
+   font-size: 10px;
+   border-width: 1px;
+}
+
+#b2{
+   border-radius: 20px;
+   background:linear-gradient(to right,rgb(6, 168, 232,0.7), rgb(255, 255, 255,0.7));
+   padding: 15px;
+   font-size: 7px;
+   border-width: 2px;
+}
+
+#mode1{
+    color: black;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#mode2{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#b1:hover{
+    background: skyblue;
+}
+#b2:hover{
+    background: skyblue;
+}
+#d1{
+    border-radius: 15px;
+    padding: 15px;
+    margin: 0%;
+}
+article{
+    justify-content: center;
+    text-align: center;
+    background:linear-gradient(to right,rgb(6, 168, 232,0.7), rgb(255, 255, 255,0.7));
+}
+#sec2{
+    gap: 25px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: none;
+    border-width: 5px;
+}
+#sec3{
+     gap: 15px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: none;
+}
+
+
+ #img1{
+    float: right;
+    border: 1px solid;
+    border-radius: 20px;
+
+} 
+
+#Art{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+     background:linear-gradient(to right,rgb(6, 168, 232,0.5), rgb(255, 255, 255,0.7));
+}
+#m{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+    background:linear-gradient(to right,rgb(6, 168, 232,0.5), rgb(255, 255, 255,0.7));
+}
+#ah{
+justify-content: center;
+text-align: center;
+}
+#img2{
+     border: 1px solid;
+    border-radius: 10px;
+}
+#baci{
+border: 1px solid;
+    border-radius: 10px; 
+    background:linear-gradient(to right,rgb(6, 168, 232,0.5), rgb(255, 255, 255,0.7)); 
+}
+#u{
+     font-size: larger;
+    font-weight: bolder;
+    color: black;
+    font-style: italic;
+}
+#G{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+#H{
+     border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+     background:linear-gradient(to right,rgb(6, 168, 232,0.5), rgb(255, 255, 255,0.7));
+}
+#T{
+    background:linear-gradient(to right,rgb(6, 168, 232,0.5), rgb(255, 255, 255,0.7)); 
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+    font-style: italic;
+    border: 1px solid;
+}
+#img3{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+#img4{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    justify-content: center;
+}
+
+#Se{
+     background:linear-gradient(to right,rgb(6, 168, 232,0.5), rgb(255, 255, 255,0.7))
+}
+#V{
+    border-radius: 20px;
+   background:linear-gradient(to right,rgb(6, 168, 232,0.7), rgb(255, 255, 255,0.7));
+   padding: 5px;
+   font-size: 15px;
+   border: 2px solid;
+}
+#V:hover{
+    background-color: white;
+}
+#fullname{
+    box-sizing: 20px;
+}
